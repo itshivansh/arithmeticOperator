@@ -31,8 +31,6 @@ Refer the problem.md file for problem description.
 
 8. Check on the git repo online, if the files have been pushed
 
-9. Submit your solution on Hobbes
-
 
 ### Important instructions for Participants
 > - We expect you to write the assignment on your own by following through the guidelines, learning plan, and the practice exercises
